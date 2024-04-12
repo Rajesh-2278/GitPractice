@@ -6,6 +6,7 @@ public class Gitt {
 		// TODO Auto-generated method stub
 
 		System.out.println("King");
+		System.out.println("Tiger");
 	}
 
 }
