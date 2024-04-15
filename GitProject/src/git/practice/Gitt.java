@@ -7,6 +7,7 @@ public class Gitt {
 
 		System.out.println("King");
 		System.out.println("Tiger");
+		System.out.println("15");
 	}
 
 }
